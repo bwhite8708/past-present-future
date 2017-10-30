@@ -1,0 +1,16 @@
+body  {
+          background-color:  #2d0142;
+}
+
+h1 {
+       color:   #61c1e8;
+        font-family:  'Nosifer', cursive;
+        font-size: 70px;
+        text-align: center;
+}
+
+p {
+        color:   #61c1e8;
+        font-size: 18px;
+        font-family: 'Nosifer', cursive;
+}
